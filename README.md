@@ -5,3 +5,5 @@ If you want to run this yourself, you have to pull the celeb-a HQ dataset and th
 For those of you who have a racecar account, this is all in ```/data5/accounts/marsh/Diffusion/```, and is all pre-trained and ready to go.
 
 I wasn't able to upload the t=500 and t=999 animations due to size restrictions, but here they are in imgur: https://imgur.com/a/UryNNNi
+
+Pre-trained model weights are in the vp_diffusion_outputs folder
