@@ -6,6 +6,6 @@ For those of you who have a racecar account, this is all in ```/data5/accounts/m
 
 I wasn't able to upload the t=500 and t=999 animations due to size restrictions, but here they are in imgur: https://imgur.com/a/UryNNNi
 
-Pre-trained model weights are in the vp_diffusion_outputs folder.
-
 The diffusion model isn't optimal architecture, just the first one I found that worked sufficiently.
+
+Pre-trained model weights are here: https://drive.google.com/file/d/1NV68JKtXhyE3wqCP72dgj3S3AyTZ_0dz/view?usp=sharing
