@@ -1,4 +1,4 @@
-Here is the current code I have -- poorly implemented geodesics, just a proof of concept.
+Here is the current code I have and the pdf with my math in it -- poorly implemented geodesics, just a proof of concept.
 
 If you want to run this yourself, you have to pull the celeb-a HQ dataset and then update the path in the prepare_dataset.py file, then run celebhqdiffusion_fancy.py (took about 12 hours to hit epoch 1000 on racecar), then update the Diffusion_Results.py to load whatever epoch you decided to stop at.
 
