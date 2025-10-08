@@ -444,7 +444,7 @@ def main():
     model = UNetSD().to(device)
     scheduler = VPScheduler(num_timesteps=1000)
 
-    checkpoint_path = "vp_diffusion_outputs/unet_epoch_2000.pt"
+    checkpoint_path = "vp_diffusion_outputs/unet_epoch_1000.pt"
     if os.path.isfile(checkpoint_path):
         model.load_state_dict(torch.load(checkpoint_path, map_location=device))
         model.eval()
