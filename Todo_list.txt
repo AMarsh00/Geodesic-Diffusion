@@ -1,0 +1,7 @@
+WTF pre-image of noise vectors
+Two 10-d spaces, principle angles
+Sign of distance matrix (PD,ND)
+Dimension of tangent space
+Is map lipschitz, ctns wrt schedule
+Move straight in every basis vector for a good epsilon ball, approx tangent space at every layer, track how singular values change, mean center data as you go (find SVD of ball around x minus x)
+Make sure epsilon ball is uniformly sized
