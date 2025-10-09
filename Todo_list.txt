@@ -1,4 +1,4 @@
-WTF pre-image of noise vectors
+WTF pre-image of normal vectors
 Two 10-d spaces, principle angles
 Sign of distance matrix (PD,ND)
 Dimension of tangent space
